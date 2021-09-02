@@ -1,0 +1,72 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+    background-image: url(full-moon-forest-night-dark-starry-sky-5k-8k-3840x2160-1684.jpeg);
+    background-position:center;
+    color: #333;
+}
+
+.header {
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+.header img
+{
+	width: 80px;
+    margin-left: -15px;
+}
+
+.cube_div
+{
+	background: rgba(38, 43, 47, 0.6);
+    float: none;
+    border-radius: 15px;
+}
+
+.logo
+{
+    width: 80px;
+    margin-top: 30px;
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #333;
+    margin-bottom: 20px;
+}
+
+#login_button
+{color: #333;
+	width: 80%;
+}
+
+#space_box input,label,button{
+    margin: 10px;
+}
+
+#space_box input{
+    width: 90%;
+}
+
+#user_name{
+    padding-top: 15px;
+}
+
+#output{
+    color: rgb(241, 236, 236);
+    width: 80%;
+    padding: 10px;
+	background: rgba(38, 43, 47, 0.8);
+    float: none;
+    border-radius: 15px;
+}
+
+#logout{
+    margin-top: -55px;
+    margin-right: 35px;
+}
